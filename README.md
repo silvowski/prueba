@@ -1,2 +1,2 @@
 ## Silvowski
-![](http://i.imgur.com/OUkLi.gif)
+![](http://i.imgur.com/OUkLi.gif) :gun:
