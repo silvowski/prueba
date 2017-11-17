@@ -1,6 +1,7 @@
 ## Silvowski
 <script src="https://gist.github.com/jhsu/2550829.js"></script>
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ### Markdown
 
