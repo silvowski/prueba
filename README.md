@@ -1,4 +1,4 @@
-<https://www.google.es/search?q=hacking+etico+learn>
+[https://www.google.es/search?q=hacking+etico+learn]
 <https://www.google.es/search?as_epq=ubuntu+no+funciona>
 <https://www.google.es/search?as_epq=gregorio+fernandez&as_eq=centro-ense%C3%B1anza>
 <https://www.google.es/search?as_epq=gregorio+fernandez&as_eq=centro-ense%C3%B1anza&num=3>
